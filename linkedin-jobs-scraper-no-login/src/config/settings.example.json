@@ -1,0 +1,7 @@
+{
+  "linkedin_base_url": "https://www.linkedin.com/jobs/search/",
+  "default_filters": {
+    "location": "United States",
+    "employmentType": "full-time"
+  }
+}
