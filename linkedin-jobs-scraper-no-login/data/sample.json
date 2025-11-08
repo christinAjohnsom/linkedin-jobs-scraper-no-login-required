@@ -1,0 +1,16 @@
+[
+  {
+    "job_title": "Python Developer",
+    "company_name": "TechCorp",
+    "location": "New York, United States",
+    "job_url": "https://www.linkedin.com/jobs/view/python-developer-at-techcorp-1234567890",
+    "apply_url": "https://www.linkedin.com/jobs/view/python-developer-at-techcorp-1234567890"
+  },
+  {
+    "job_title": "Senior Python Engineer",
+    "company_name": "DataSolutions",
+    "location": "San Francisco, United States",
+    "job_url": "https://www.linkedin.com/jobs/view/senior-python-engineer-at-datasolutions-1234567891",
+    "apply_url": "https://www.linkedin.com/jobs/view/senior-python-engineer-at-datasolutions-1234567891"
+  }
+]
