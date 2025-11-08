@@ -1,0 +1,6 @@
+# Sample input file for LinkedIn Jobs Scraper.
+# Please provide a search term and optional filters.
+
+search_term=Python
+location=United States
+employmentType=full-time
